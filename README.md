@@ -1,6 +1,5 @@
 # OceanBOT
 BOT OCEAN AUTO FARMING GARAPAN SUI
-# BOT OCEAN AUTO FARMING
 
 # Register BOT
 - [LINK](https://t.me/waveonsuibot/walletapp?startapp=1748434)
@@ -28,6 +27,4 @@ Contoh :
 eyJhbGciOiJIUzI1NiIsInxxxxxxxxxxxxx.eyJzdWIiOjE3MzYwMzUsInJpZCI6Ijgzxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ```
-https://img001.prntscr.com/file/img001/GFoiYq4wTTe1MTevXXGMwQ.png
-
 [![LAYER AIRDROP](https://img001.prntscr.com/file/img001/GFoiYq4wTTe1MTevXXGMwQ.png)](https://github.com/rmndkyl/OceanBOT)
