@@ -28,5 +28,5 @@ Contoh :
 eyJhbGciOiJIUzI1NiIsInxxxxxxxxxxxxx.eyJzdWIiOjE3MzYwMzUsInJpZCI6Ijgzxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ```
-https://img001.prntscr.com/file/img001/GFoiYq4wTTe1MTevXXGMwQ.png)](https://github.com/AirDropFamilyIDN/oceanbot
+https://img001.prntscr.com/file/img001/GFoiYq4wTTe1MTevXXGMwQ.png
 
