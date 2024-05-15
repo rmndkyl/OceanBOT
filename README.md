@@ -2,7 +2,7 @@
 BOT OCEAN AUTO FARMING GARAPAN SUI
 
 # Register BOT
-- [LINK](https://t.me/waveonsuibot/walletapp?startapp=1748434)
+- [LINK](https://t.me/waveonsuibot/walletapp?startapp=1808223)
 
 # LAYER AIRDROP
 - https://t.me/layerairdrop
